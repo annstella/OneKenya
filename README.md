@@ -23,10 +23,10 @@ Poor or no internet connection
 4. jQuery
 
 #### Contributors
-<em>Rehan Ali</em>
-<em>Annstella Wangui</em>
-<em>Samuel Ndungu</em>
-<em>Gabriel Nwachukwu</em>
+1. <em>Rehan Ali</em>
+2. <em>Annstella Wangui</em>
+3. <em>Samuel Ndungu</em>
+4. <em>Gabriel Nwachukwu</em>
 
 ## Licence:
 This project is licensed under the MIT License.
