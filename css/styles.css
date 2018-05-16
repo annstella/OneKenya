@@ -23,6 +23,13 @@
     background-color: #ddd;
     color: black;
 }
+p{
+font-size: 18px;
+color: darkslategray;
+text-align: centre;
+display: none;
+}
+
 /*.topnav a.active {
   background-color: #060606;
     color: white;
