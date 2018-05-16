@@ -1,0 +1,12 @@
+
+.container{
+  background-color: #b0bec5;
+}
+.jumbotron{
+  background-image: url("../image/flag.png");
+
+}
+.jumbotron h1{
+  text-align: center;
+  color: green;
+}
