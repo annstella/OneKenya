@@ -1,5 +1,8 @@
 $(document).ready(function(){
   $(".about").click(function(){
-    $("p").toggle();
+    $(".us").toggle();
   });
+  $(".contact").click(function(){
+    $(".contacts").toggle();
+});
 });
