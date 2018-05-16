@@ -5,4 +5,8 @@ $(document).ready(function(){
   $(".contact").click(function(){
     $(".contacts").toggle();
 });
+$(".communities").click(function(){
+  $(".myDropdown").toggle();
 });
+});
+      
