@@ -1,9 +1,12 @@
 
 .container{
   background-color: #b0bec5;
+
 }
 .jumbotron{
   /*background-image: url("../image/flag.png");*/
+
+  margin: 0px;
 
 }
 .jumbotron h1{
