@@ -3,10 +3,14 @@
   background-color: #b0bec5;
 }
 .jumbotron{
-  background-image: url("../image/flag.png");
+  /*background-image: url("../image/flag.png");*/
 
 }
 .jumbotron h1{
   text-align: center;
   color: green;
+}
+.p{
+  font-size: 20px;
+
 }
