@@ -1,0 +1,68 @@
+.luimg {
+  padding-top: 20px;
+  padding-left: 20px;
+  box-shadow: 2px 2px 2px 2px blue;
+  margin-left: 20px;
+  margin-right: 221px;
+  padding-bottom: 16px;
+}
+.topnav{
+  background-color: #333;
+  overflow: hidden;
+}
+a.dropdown-toggle {
+  width: 10px;
+  width: 166px;
+}
+.navbar-default .navbar-brand {
+  color: white;
+  width: 281px;
+  background-color: black;
+  text-align: center;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: #e7e7e7;
+  width: 281px;
+  text-align: center;
+}
+.dropdown {
+  position: relative;
+  width: 280px;
+  background-color: red;
+.us{
+  font-size: 20px;
+  color: darkslategray;
+  text-align: center;
+  /* display: none; */
+  font-family: 'Merienda', serif;
+  }
+@media screen and (min-width: 768px)
+  .carousel-indicators {
+    bottom: 20px;
+    margin-left: -50px;
+.contacts{
+  display: none;
+}
+.jumbotron{
+  text-align: center;
+  font-weight: 100px;
+  text-shadow: 4px 4px 4px #aaa;
+  font-family: 'Oswald', serif;
+  /* font-family: 'Ribeye', cursive; */
+}
+ #footer {
+  padding-top: 16px;
+    text-align: center;
+background-image:url("kenya.png");
+}
+.home{
+  background-color: black;
+}
+#community{
+  background-color: red;
+}
+.contact{
+  background-color: green;
+}
