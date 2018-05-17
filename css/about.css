@@ -1,0 +1,18 @@
+.us{
+  font-size: 18px;
+  text-align: center;
+}
+#team {
+  text-align: center;
+  color:green;
+}
+.end {
+  padding-left: 388px;
+  padding-top: 33px;
+}
+.container {
+  box-shadow: 2px 2px 2px 2px;
+  padding-bottom: 44px;
+  margin-top: 40px;
+
+}
