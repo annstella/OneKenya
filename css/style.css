@@ -1,0 +1,22 @@
+
+.container{
+  background-color: white;
+
+}
+.jumbotron{
+  /*background-image: url("../image/flag.png");*/
+
+  margin: 0px;
+
+}
+.jumbotron h1{
+  text-align: center;
+  color: green;
+}
+.p{
+  font-size: 20px;
+
+}
+#zxy{
+  width: 200px;
+}
