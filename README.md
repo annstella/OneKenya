@@ -5,7 +5,7 @@ This is a website that contains credible,interesting snippets about some communi
 little or no information about our cultures.  
 
 ## Set up requirements:
-The users need to have access to internet. They should then go to https://github.com/redin22/OneKenya and have fun while 
+The users need to have access to internet. They should then go to https://redin22.github.io/OneKenya/projectindex.html# and have fun while 
 enriching themselves with knowledge.
 
 ## Specifications
@@ -21,6 +21,8 @@ Poor or no internet connection
 2. CSS3
 3. Javascript
 4. jQuery
+5. Google Fonts
+6. Bootstrap
 
 #### Contributors
 1. <em>Rehan Ali</em>
