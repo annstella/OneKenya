@@ -13,8 +13,8 @@
 .navbar-default {
   background-color: #f8f8f8;
   border-color: #e7e7e7;
-  margin-left: 76px;
-  margin-right: 185px;
+  /* margin-left: 76px;
+  margin-right: 185px; */
 }
 a.dropdown-toggle {
   width: 10px;
